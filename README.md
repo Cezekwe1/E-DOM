@@ -1,5 +1,9 @@
 # E-DOM
 
+## Snake
+
+![main](assets/SnakeScreenShot.png)
+
 ## Description
 
 E-DOM is a lightweight JavaScript library. Inspired by JQuery, it simplifies DOM manipulation. It allows for HTML document traversal, event handling, and AJAX requests in JavaScript.
