@@ -1,0 +1,43 @@
+li {
+  float: left;
+  width: 19px;
+  height: 19px;
+  border-radius: 60%;
+}
+
+.grid {
+  background: NavajoWhite;
+  background-size: contain;
+  border-radius: 10px;
+  border-color: LightSalmon;
+}
+
+.apple {
+  background: Crimson;
+}
+
+.snake {
+  background: SlateBlue;
+}
+
+.restart{
+  color: black;
+  height: 40px;
+  width: 100px;
+  font-size: 22px;
+  border: 2px solid black;
+  border-radius: 10px;
+  border-color: LightSalmon;
+  padding: 5px;
+  background: NavajoWhite;
+  text-align: center;
+  margin: 0 auto;
+  outline: none;
+  font-family: Hurry Up;
+  color: LightSalmon;
+}
+
+.restart:hover {
+  cursor: pointer;
+  background-color: BurlyWood;
+}
