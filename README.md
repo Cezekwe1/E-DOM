@@ -12,7 +12,9 @@ Download E-DOM by downloading and add to project directory whenever necessary ad
   const $e = require('../lib/main.js');
 ```
 
+
 ### Examples
+
 
 #### Element and Class Retrieval
 
@@ -29,6 +31,7 @@ CSS...
 ``` javascript
   const eclass = $e('.ending');
 ```
+
 
 #### AJAX
 
@@ -47,6 +50,7 @@ E-DOM allows you to make ajax requests.
     },
     });
 ```
+
 
 ### `DOMNodeCollection.prototype` Methods
 
