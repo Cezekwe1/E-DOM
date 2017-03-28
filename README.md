@@ -2,6 +2,9 @@
 
 ## Snake
 
+[Live][link]
+[link]: http://cezekwe1.github.io/E-DOM/
+
 ![main](assets/SnakeScreenShot.png)
 
 ## Description
